@@ -1,8 +1,8 @@
-# Model name
+# T5 Question Generator
 
 ## Model description
 
-This model is a sequence-to-sequence question generator which takes an answer and context as an input, and generates a question as an output. It is based on a pretrained `t5-base` model.
+This model is a sequence-to-sequence question generator which takes an answer and context as an input, and generates a question as an output. It is based on a pretrained [t5-base](https://huggingface.co/t5-base) model.
 
 ## Intended uses & limitations
 
